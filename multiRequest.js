@@ -20,6 +20,6 @@ placeAnOrder(6);
 placeAnOrder(7);
 placeAnOrder(8);
 placeAnOrder(9);
-placeAnOrder(10);
+
 
 
