@@ -11,15 +11,15 @@ function cookAndGivenFood(yellBack){
     setTimeout(yellBack, 4000);
 }
 
-placeAnOrder(1);
-placeAnOrder(2);
-placeAnOrder(3);
-placeAnOrder(4);
-placeAnOrder(5);
-placeAnOrder(6);
-placeAnOrder(7);
-placeAnOrder(8);
-placeAnOrder(9);
+console.log(placeAnOrder(1)); 
+console.log(placeAnOrder(2));
+console.log(laceAnOrder(3));
+console.log(placeAnOrder(4));
+console.log(placeAnOrder(5));
+console.log(placeAnOrder(6));
+console.log(placeAnOrder(7));
+console.log(placeAnOrder(8));
+console.log(placeAnOrder(9));
 
 
 
